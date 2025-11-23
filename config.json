@@ -1,0 +1,9 @@
+{
+    "prefix":"#",
+    "announcement":"announcements",
+    "welcome-channel":"welcome",
+    "leave-channel":"leave",
+    "history-channel":"history",
+    "member-role":"Member",
+    "mute-role":"Muted"
+}
